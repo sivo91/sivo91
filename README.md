@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sivo91
-- 👀 I’m interested in Javascript , My goal is to get job as webdeveloper
-- 🌱 I’m currently learning JS , also attending community college  web development , I took class C++ , next is java , i think it will help me understand more programing 
-- User of Udemy , Chegg.com, 
+- 👀 I’m interested in Javascript , My goal is to get job in IT field.
+- 🌱 I’m currently learning JS , also attending community college .
+- User of Udemy , Chegg.com, ... 
 - 📫 How to reach me : p.sivak91@gmail.com 
 
 
