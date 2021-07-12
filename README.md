@@ -7,7 +7,7 @@
 -     Adobe Illustrator
 -     Photoshop
 -     C++ Fundamentals
--     HTML, CSS
+-     HTML, CSS, SASS
 -     JavaScript Fundamentals 
 -     Visual Basic 
 -   
