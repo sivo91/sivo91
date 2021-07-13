@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter.
 - 👀 I’m learning Javascript + React, I want to be first class.
-- 🌱 I’m currently learning JS , also attending community college.
+- 🌱 I’m attending community college. 
 -  Skills :      
 -     Web Interactivity
 -     Adobe InDesign
