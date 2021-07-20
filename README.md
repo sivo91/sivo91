@@ -10,6 +10,8 @@
 -     HTML, CSS, SASS, Bootstrap (basic)
 -     JavaScript Fundamentals 
 -     Visual Basic 
+-     git + basic
+-     
 -   
 - 📫 How to reach me : p.sivak91@gmail.com or 707 770 67 4three
 
