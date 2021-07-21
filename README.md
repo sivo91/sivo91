@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter.
-- 👀 I’m learning Javascript + React, I want to be first class.
+- 👀 I’m learning Javascript + React.
 - 🌱 I’m attending community college. 
 -  Skills :      
 -     Web Interactivity
@@ -8,7 +8,7 @@
 -     Photoshop
 -     C++ Fundamentals
 -     HTML, CSS, SASS, Bootstrap (basic)
--     JavaScript Fundamentals 
+-     JavaScript 
 -     Visual Basic 
 -     git + basic
 -     
