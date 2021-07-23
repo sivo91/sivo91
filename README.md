@@ -1,13 +1,13 @@
 - 👋 Hi, I’m Peter.
-- 👀 I’m learning Javascript + React.
-- 🌱 I’m attending community college. 
+- 👀 I’m learning Javascript.
+- 🌱 I’m attending community college and Udemy as well (:
 -  Skills :      
 -     Web Interactivity
 -     Adobe InDesign
 -     Adobe Illustrator
 -     Photoshop
--     C++ Fundamentals
--     HTML, CSS, SASS, Bootstrap (basic)
+-     C++ Fundamentals 
+-     HTML, CSS, SASS, Bootstrap
 -     JavaScript 
 -     Visual Basic 
 -     git & github
