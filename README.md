@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter.
 - 👀 I’m learning Javascript.
-- 🌱 I’m attending community college and Udemy as well (:
+- 🌱 I’m attending community college and Udemy as well (;
 -  Skills :      
 -     Web Interactivity
 -     Adobe InDesign
