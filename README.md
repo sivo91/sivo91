@@ -7,7 +7,7 @@
 -     Adobe Illustrator
 -     Photoshop
 -     C++ Fundamentals 
--     HTML, CSS, SASS, Bootstrap
+-     HTML, CSS, SASS, Bootstrap, GreenSock
 -     JavaScript 
 -     Visual Basic 
 -     git & github
