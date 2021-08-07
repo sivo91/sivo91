@@ -11,7 +11,7 @@
 -     JavaScript 
 -     Visual Basic 
 -     git & github
--     Computer Micro Applications (EXEL, WORD, ACCESS, POWERPOINT)
+-     Micro Computer Applications  (EXCEL, WORD, ACCESS, POWERPOINT)
 -     
 -   
 - 📫 How to reach me : p.sivak91@gmail.com or 707 770 67 4three
