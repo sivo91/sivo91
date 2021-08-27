@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Peter.
 - 👀 I’m learning Javascript.
-- 🌱 I’m attending community college and Udemy as well (;
+- 🌱 I’m attending Two community colleges and Udemy as well (;
 -  Skills :      
 -     Web Interactivity
 -     Adobe InDesign
 -     Adobe Illustrator
 -     Photoshop
 -     C++ Fundamentals 
+-     Creating Games (2d Phaser, 3d Three J.S.)
 -     HTML, CSS, SASS, Bootstrap, GreenSock
 -     JavaScript 
 -     Visual Basic 
