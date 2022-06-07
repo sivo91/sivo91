@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Peter
 #### I am Designer & Web Developer 
 
-Skills: NODE.JS / JS / REACT / JS / HTML / CSS
+Skills: NODE.JS / REACT / JS / HTML / CSS
 
-- 🌱 I’m currently learning React & NODE.js 
+- 🌱 I’m currently learning React & NODE.JS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/peter-sivak-profile//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sivo91.github.io/PeterS/html/intro.html)  
