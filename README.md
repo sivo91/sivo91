@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Peter
 #### I am Designer & Web Developer 
 
-Skills: NODE.JS / REACT / JS / HTML / CSS
+Skills: NODE.JS / REACT / JS / jQuery / OpenLayers / Bootstrap / Sass / WordPress / HTML / CSS
 
 - 🌱 I’m currently learning React & NODE.JS 
 
