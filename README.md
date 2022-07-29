@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Peter
-#### I am Designer & Web Developer 
+#### I am Front End Web Developer  
 
 Skills: NODE.JS / REACT / JS / jQuery / OpenLayers / Bootstrap / Sass / WordPress / HTML / CSS
 
