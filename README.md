@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Peter
 #### I am Front End Web Developer  
 
-Web Developer
 
 - 🌱 I’m currently learning React & NODE.JS 
 
