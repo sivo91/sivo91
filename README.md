@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Peter
-#### I am Front End Web Developer  
+### Hi there 👋, I am Peter
+#### full-stack developer junior 
 
 
-- 🌱 I’m currently learning React & NODE.JS 
+- 🌱 I’m currently learning React, NODE.JS & NEXT.JS 
 
 
 
