@@ -27,7 +27,7 @@
 
 <img alt="Blender" src="https://img.shields.io/badge/Blender-%23323330.svg? style=for-the-badge&logo=Blender&logoColor=%23F7DF1E"/>
 
-<img alt="React" src="https://img.shields.io/badge/React-%23323330.svg? style=for-the-badge&logo=React&logoColor=%23F7DF1E"/>
+<img alt="React" src="https://img.shields.io/badge/React-%23323330.svg? style=for-the-badge&logo=React&logoColor=%0ACBFF"/>
 
 
 
