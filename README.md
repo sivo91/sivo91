@@ -21,7 +21,9 @@
 
 <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23323330.svg? style=for-the-badge&logo=Next.js&logoColor=%23F7DF1E"/>
 
-<img alt="Phaser" src="https://img.shields.io/badge/Phaser-%23323330.svg? style=for-the-badge&logo=Phaser&logoColor=%23F7DF1E"/>
+<img alt="Phaser3" src="https://img.shields.io/badge/Phaser3-%23323330.svg? style=for-the-badge&logo=Phaser3&logoColor=%23F7DF1E"/>
+
+<img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23323330.svg? style=for-the-badge&logo=Three.js&logoColor=%23F7DF1E"/>
 
 
 
