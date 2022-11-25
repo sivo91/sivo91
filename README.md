@@ -13,7 +13,7 @@
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23485D.svg? style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img alt="JavaScrippt" src="https://img.shields.io/badge/javascript-%23323330.svg? style=for-the-badge&logo=javascript.js&logoColor=%23F7DF1E"/>
+<img alt="JavaScrippt" src="https://img.shields.io/badge/javascript-%23323330.svg? style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23F7DF1E.svg? style=for-the-badge&logo=html5&logoColor=%white"/>
 
