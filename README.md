@@ -25,6 +25,8 @@
 
 <img alt="Three.js" src="https://img.shields.io/badge/Three.js-%23323330.svg? style=for-the-badge&logo=Three.js&logoColor=%23F7DF1E"/>
 
+<img alt="Blender" src="https://img.shields.io/badge/Blender-%23323330.svg? style=for-the-badge&logo=Blender&logoColor=%23F7DF1E"/>
+
 
 
 
