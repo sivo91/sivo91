@@ -19,7 +19,7 @@
 
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg? style=for-the-badge&logo=css3&logoColor=%white"/>
 
-<img alt="Next.js" src="https://img.shields.io/badge/next.js-%23485D.svg? style=for-the-badge&logo=node-dot-js&logoColor=#e8e8e8"/>
+<img alt="Next.js" src="https://img.shields.io/badge/javascript-%23323330.svg? style=for-the-badge&logo=javascript-js&logoColor=%23F7DF1E"/>
 
 
 
