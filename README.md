@@ -2,7 +2,7 @@
 #### full-stack developer junior 
 
 
-- 🌱 I’m currently learning React, NODE.JS & NEXT.JS 
+- 🌱 I’m currently learning React & NEXT.JS 
 
 
 
