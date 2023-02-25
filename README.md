@@ -1,5 +1,5 @@
-### Hi there 👋, I am Peter
-#### full-stack developer
+### Hi there 👋, I am Peter,
+#### Web Full-Stack Developer.
 
 
 - 🌱 I’m currently working with React, Node.js & Next.js
