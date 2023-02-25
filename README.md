@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Peter
-#### full-stack developer junior 
+#### full-stack developer
 
 
-- 🌱 I’m currently learning React & NEXT.JS 
+- 🌱 I’m currently working with React, Node.js & Next.js
 
 
 
