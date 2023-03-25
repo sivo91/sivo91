@@ -2,7 +2,7 @@
 #### Web Full-Stack Developer.
 
 
-- 🌱 I’m currently working with React, Node.js, Next.js and MongoDB
+- 🌱 I’m currently working on React, Node.js, Next.js and MongoDB
 
 
 
