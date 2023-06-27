@@ -2,7 +2,7 @@
 #### Web Full-Stack Developer.
 
 
-- 🌱 I’m currently working on Next.js & Typescitpt
+- 🌱 I’m currently working on C++
 
 
 
