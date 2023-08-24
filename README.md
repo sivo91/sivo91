@@ -2,7 +2,7 @@
 #### Web Full-Stack Developer.
 
 
-- 🌱 I’m currently working on C++
+- 🌱 I’m currently working on C++ & typescript
 
 
 
