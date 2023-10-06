@@ -10,8 +10,7 @@
 **College Projects:**   
 [**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo. (Fall 2023)  
 ## 🗣 Testimonials or User Feedback:
-
-> 😄 "This project has been super helpful for my workflow! Great job!" - Jane Doe
+> 😄 "This project has been super helpful for my workflow! Great job!" - Jane Doe   
 [**Server Side - CMS**](https://cms-final-repo.vercel.app/) - Santa Rosa Junior College, Fall 2022  
 [**Sleeperwave Films**](https://dev-sleeperwave-films.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
 [**Ancient Creek Civilization**](https://dev-peters.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
