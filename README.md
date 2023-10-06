@@ -8,6 +8,8 @@ List of public projects:
 [**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo. (Fall 2023)   
 [**Server Side - CMS**](https://cms-final-repo.vercel.app/) - Santa Rosa Junior College, Fall 2022  
 [**Sleeperwave Films**](https://dev-sleeperwave-films.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
+[**Ancient Creek Civilization**](https://dev-peters.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
+[**Phaser3 Gaming**](https://treasure-game.peter119.repl.co/) - Side project, looking for responsible person.   
 [**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.   
 [**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.   
 [**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
