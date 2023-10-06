@@ -5,12 +5,20 @@
 - 🌱 I’m currently working on C++ & typescript
 
 List of public projects:  
+College Projects:  
 [**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo. (Fall 2023)   
 [**Server Side - CMS**](https://cms-final-repo.vercel.app/) - Santa Rosa Junior College, Fall 2022  
-[**Intro To Game Coding**](https://treasure-game.peter119.repl.co/) - Santa Rosa Junior College, Fall 2021  
 [**Sleeperwave Films**](https://dev-sleeperwave-films.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
 [**Ancient Creek Civilization**](https://dev-peters.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
-[**Phaser3 Gaming**](https://treasure-game.peter119.repl.co/) - Side project, looking for responsible person.   
+[**Web Development I**](https://webdevelopment-1.peter119.repl.co/index.html) - Santa Rosa Junior College, HTML, Spring 2021  
+[**Web Development II**](https://webdevelopment-2.peter119.repl.co/index.html) - Santa Rosa Junior College, WordPress, Spring 2021  
+[**Web Development III**](https://final-project-react-node-server.peter119.repl.co/index.html) - Santa Rosa Junior College, JavaScript, Spring 2022  
+
+Gaming:  
+[**Intro To Game Coding**](https://treasure-game.peter119.repl.co/) - Santa Rosa Junior College,Phaser3, Fall 2021  
+[**PlayCanvas WebGL**](https://playcanv.as/b/jGaLvthn) - Santa Rosa Junior College,WebGL, Fall 2021  
+  
+Side Projects Next.js, Redux, MongoDB, TypeScript:   
 [**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.   
 [**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.   
 [**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
@@ -26,10 +34,6 @@ List of public projects:
 [**Movie Database**](https://filmy-aplikacia.netlify.app/) - Movie database    
 [**Coctail App**](https://koktajly.netlify.app/) - Coctails App    
 [**Pexeso**](https://pexeso.peter119.repl.co/index.html) - Pexeso App 
- 
-[**Ecomerce**](https://ecom-n-trinast.vercel.app/) - E-commerce Rocks, Next.js  
-[**Ecomerce**](https://ecom-n-trinast.vercel.app/) - E-commerce Rocks, Next.js  
-[**Ecomerce**](https://ecom-n-trinast.vercel.app/) - E-commerce Rocks, Next.js  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivo91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
