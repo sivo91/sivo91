@@ -1,6 +1,9 @@
 ### Hi there 👋, I am Peter,
 #### Web Full-Stack Developer.
 
+![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY)
+
+
 
 - 🌱 I’m currently working on C++ & typescript
 
