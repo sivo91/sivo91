@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently working on C++ & typescript
 
-List of public projects:  
-**College Projects:**  
+**List of public projects:**    
+**College Projects:**   
 [**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo. (Fall 2023)   
 [**Server Side - CMS**](https://cms-final-repo.vercel.app/) - Santa Rosa Junior College, Fall 2022  
 [**Sleeperwave Films**](https://dev-sleeperwave-films.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
@@ -14,11 +14,11 @@ List of public projects:
 [**Web Development II**](https://webdevelopment-2.peter119.repl.co/index.html) - Santa Rosa Junior College, WordPress, Fall 2021  
 [**Web Development III**](https://final-project-react-node-server.peter119.repl.co/index.html) - Santa Rosa Junior College, JavaScript, Spring 2022  
 
-Gaming:  
+**Gaming:**    
 [**Intro To Game Coding**](https://treasure-game.peter119.repl.co/) - Santa Rosa Junior College, Phaser3, Fall 2021  
 [**PlayCanvas WebGL**](https://playcanv.as/b/jGaLvthn) - Santa Rosa Junior College, WebGL, Fall 2021  
   
-Side Projects Next.js, Redux, MongoDB, TypeScript:    
+**Side Projects Next.js, Redux, MongoDB, TypeScript:**     
 [**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.   
 [**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.   
 [**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
