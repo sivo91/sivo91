@@ -18,7 +18,7 @@ Gaming:
 [**Intro To Game Coding**](https://treasure-game.peter119.repl.co/) - Santa Rosa Junior College, Phaser3, Fall 2021  
 [**PlayCanvas WebGL**](https://playcanv.as/b/jGaLvthn) - Santa Rosa Junior College, WebGL, Fall 2021  
   
-<u>Side Projects Next.js, Redux, MongoDB, TypeScript:</u>    
+<div style="text-decoration: underline;">Side Projects Next.js, Redux, MongoDB, TypeScript:</div>     
 [**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.   
 [**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.   
 [**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
