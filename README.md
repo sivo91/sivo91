@@ -2,8 +2,8 @@
 **Web Full-Stack Developer.**  
 
 - 🌱 I’m currently working on C++ & typescript
-- [Contact Me via Gmail](mailto:p.sivak91@gmai.com)
-- 📞 [Call me at +1-7077706743](tel:+17077706743)
+- [Contact Me](mailto:p.sivak91@gmai.com)
+
 
 
 **List of public projects:**    
