@@ -2,6 +2,8 @@
 **Web Full-Stack Developer.**  
 
 - 🌱 I’m currently working on C++ & typescript
+- [Contact Me](mailto:p.sivak91@gmai.com)
+
 
 **List of public projects:**    
 **College Projects:**   
