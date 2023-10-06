@@ -2,6 +2,8 @@
 #### Web Full-Stack Developer.
 
 ![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY)
+![GitHub](https://img.shields.io/github/license/USERNAME/REPOSITORY)
+
 
 
 
