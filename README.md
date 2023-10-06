@@ -43,7 +43,7 @@
 [**Drive-In Movie Theater**](https://drive-in-theater.peter119.repl.co/index.html) - JavaScript    
 
 ## 🗣 Testimonials or User Feedback:
-> 😄 "This project has been super helpful for my workflow! Great job!" - Jane Doe   
+> 🚀 "These projects have been super helpful for my workflow! Great job, Peter!" - Jane Doe.     
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivo91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
