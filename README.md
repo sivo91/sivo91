@@ -4,13 +4,11 @@
 
 - 🌱 I’m currently working on C++ & typescript
 
-[**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo.  
+[**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo. (Fall 2023)  
+[**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.  
+[**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.  
+[**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.  
 
-
-**AJAX-Programming** - College of San Mateo. [View Project](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html)  
-**DogSitter** - Side project. [View Project](https://dog-care-iota.vercel.app/)  
-**Typescript CRUD** - TS CRUD & MongoDB. [View Project](https://full-world-cup-23.vercel.app/)  
-**Ice Hockey WC'23** - Hockey Championship 2023. [View Project](https://full-world-cup-23.vercel.app/)  
 
 **Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
 **Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
