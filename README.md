@@ -7,7 +7,7 @@
 
 **List of public projects:**    
 **College Projects:**   
-[**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo, JavaScript (Fall 2023)  
+[**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo, JavaScript, (Fall 2023)  
 [**Data Structures C++**](https://github.com/sivo91/Link-List-Recursively) - Solano Community College, Link List Recursively, Fall 2023  
 [**Server Side - CMS**](https://cms-final-repo.vercel.app/) - Santa Rosa Junior College, Fall 2022  
 [**Sleeperwave Films**](https://dev-sleeperwave-films.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
