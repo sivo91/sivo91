@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently working on C++ & typescript
 
-[**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) 
+[**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo.  
+
 
 **AJAX-Programming** - College of San Mateo. [View Project](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html)  
 **DogSitter** - Side project. [View Project](https://dog-care-iota.vercel.app/)  
