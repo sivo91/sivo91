@@ -4,18 +4,21 @@
 
 - 🌱 I’m currently working on C++ & typescript
 
-#### List of public projects:
-[**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo. (Fall 2023)  
-[**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.  
-[**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.  
-[**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.  
-
-
-**Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
-**Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
-**Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
-**Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
-**Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
+List of public projects:
+[**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo. (Fall 2023)   
+[**Server Side - CMS**](https://cms-final-repo.vercel.app/) - Santa Rosa Junior College, Fall 2022  
+[**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.   
+[**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.   
+[**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
+[**Comment App**](https://comment-app-amber.vercel.app/) - Redux, MongoDB, Next.js  
+[**First website**](https://sivo91.github.io/PeterS/html/intro.html?fbclid=IwAR0zGWV33Rvc-t2YRrHaPjF4O-gqe1L8O5iLoKDLFYcdkLGJgqPetrl3u4Y) - JavaScript  
+[**CharisMa Web Development**](https://www.charismawebdevelopment.com/) - First Online Bussiness  
+[**Quiz App**](https://quizzes-liart.vercel.app/) - Next.js, hockey quizzes  
+[**Booking App**](https://cabin-lake-tahoe.vercel.app/) - Rent Cabin | Lake Tahoe  
+[**Booking App 2**](https://bool-app.vercel.app/) - Luxury Villa | Croatia  
+[**Data Modeling TS**](https://data-modeling2-typescript-tailwindcss.vercel.app/) - Typescript, working with data  
+[**Photo Studio**](https://photo-studio-two.vercel.app/) - Website for Photo Studio  
+[**Ecomerce**](https://ecom-n-trinast.vercel.app/) - E-commerce Rocks, Next.js  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivo91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
