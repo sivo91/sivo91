@@ -6,7 +6,7 @@
 
 **AJAX-Programming** - College of San Mateo. [View Project](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html)  
 **DogSitter** - Side project. [View Project](https://dog-care-iota.vercel.app/)  
-**Typescript CRUD** - TS CRUD & MongoDB. [View Project]([https://another-link.com/](https://ts-crud.vercel.app/))  
+**Typescript CRUD** - TS CRUD & MongoDB. [View Project]((https://ts-crud.vercel.app/))  
 **Ice Hockey WC'23** - Hockey Championship 2023. [View Project](https://full-world-cup-23.vercel.app/)  
 
 **Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
