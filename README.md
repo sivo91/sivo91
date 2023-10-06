@@ -3,9 +3,6 @@
 
 - 🌱 I’m currently working on C++ & typescript
 - [Contact Me](mailto:p.sivak91@gmai.com)
-- ![Made with passion](https://img.shields.io/badge/Made%20with-❤️-red)
-
-
 
 
 **List of public projects:**    
