@@ -6,9 +6,9 @@
 
 **AJAX-Programming** - College of San Mateo. [View Project](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html)  
 **DogSitter** - Side project. [View Project](https://dog-care-iota.vercel.app/)  
-**Project Two** - Another project description. [View Project](https://another-link.com/)
+**Typescript CRUD** - TS CRUD & MongoDB. [View Project]([https://another-link.com/](https://ts-crud.vercel.app/))  
+**Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)  
 
-**Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
 **Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
 **Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
 **Project One** - DogSiiter for our dogs. [View Project](https://dog-care-iota.vercel.app/)
