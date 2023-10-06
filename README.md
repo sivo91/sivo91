@@ -14,8 +14,8 @@ List of public projects:
 [**First website**](https://sivo91.github.io/PeterS/html/intro.html?fbclid=IwAR0zGWV33Rvc-t2YRrHaPjF4O-gqe1L8O5iLoKDLFYcdkLGJgqPetrl3u4Y) - JavaScript  
 [**CharisMa Web Development**](https://www.charismawebdevelopment.com/) - First Online Bussiness  
 [**Quiz App**](https://quizzes-liart.vercel.app/) - Next.js, hockey quizzes  
-[**Booking App**](https://cabin-lake-tahoe.vercel.app/) - Rent Cabin | Lake Tahoe  
-[**Booking App 2**](https://bool-app.vercel.app/) - Luxury Villa | Croatia  
+[**Lake Taho Booking App**](https://cabin-lake-tahoe.vercel.app/) - Rent Cabin | Lake Tahoe  
+[**Croatia Booking App**](https://bool-app.vercel.app/) - Luxury Villa | Croatia  
 [**Data Modeling TS**](https://data-modeling2-typescript-tailwindcss.vercel.app/) - Typescript, working with data  
 [**Photo Studio**](https://photo-studio-two.vercel.app/) - Website for Photo Studio  
 [**Ecomerce**](https://ecom-n-trinast.vercel.app/) - E-commerce Rocks, Next.js  
