@@ -14,7 +14,7 @@
 [**Web Development III**](https://final-project-react-node-server.peter119.repl.co/index.html) - Santa Rosa Junior College, JavaScript, Spring 2022  
 
 **Gaming:**    
-[**Intro To Game Coding**](https://treasure-game.peter119.repl.co/) - Santa Rosa Junior College, Phaser3, Fall 2021 ![GitHub stars]  
+[**Intro To Game Coding**](https://treasure-game.peter119.repl.co/) - Santa Rosa Junior College, Phaser3, Fall 2021  
 [**PlayCanvas WebGL**](https://playcanv.as/b/jGaLvthn) - Santa Rosa Junior College, WebGL, Fall 2021  
   
 **Side Projects Next.js, Redux, MongoDB, TypeScript:**     
