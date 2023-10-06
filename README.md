@@ -4,6 +4,7 @@
 
 - 🌱 I’m currently working on C++ & typescript
 
+#### List of public projects:
 [**AJAX-Programming**](https://sivo91.github.io/AJAX-Programming/js/CIS114Assignments.html) - College of San Mateo. (Fall 2023)  
 [**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.  
 [**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.  
