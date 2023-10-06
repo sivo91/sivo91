@@ -1,4 +1,4 @@
-**Hi there 👋, I am Peter,**
+**Hi there 👋, I am Peter,**  
 **Web Full-Stack Developer.**  
 
 - 🌱 I’m currently working on C++ & typescript
