@@ -23,7 +23,7 @@
   
 **Side Projects Next.js, Redux, MongoDB, TypeScript:**     
 [**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.   
-[**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.   
+[**Typescript CRUD**](https://ts-crud.vercel.app/) - TS CRUD & MongoDB.   
 [**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
 [**Comment App**](https://comment-app-amber.vercel.app/) - Redux, MongoDB, Next.js  
 [**First Website**](https://sivo91.github.io/PeterS/html/intro.html?fbclid=IwAR0zGWV33Rvc-t2YRrHaPjF4O-gqe1L8O5iLoKDLFYcdkLGJgqPetrl3u4Y) - JavaScript  
