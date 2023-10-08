@@ -13,8 +13,8 @@
 [**Sleeperwave Films**](https://dev-sleeperwave-films.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
 [**Ancient Creek Civilization**](https://dev-peters.pantheonsite.io/) - Santa Rosa Junior College, WordPress, Spring 2022  
 [**Web Development I**](https://webdevelopment-1.peter119.repl.co/index.html) - Santa Rosa Junior College, HTML, Spring 2021  
-[**Web Development II**](https://webdevelopment-2.peter119.repl.co/index.html) - Santa Rosa Junior College, WordPress, Fall 2021  
-[**Web Development III**](https://final-project-react-node-server.peter119.repl.co/index.html) - Santa Rosa Junior College, JavaScript, Spring 2022  
+[**Web Development II**](https://webdevelopment-2.peter119.repl.co/index.html) - Santa Rosa Junior College, WordPress, Summer 2021  
+[**Web Development III**](https://final-project-react-node-server.peter119.repl.co/index.html) - Santa Rosa Junior College, JavaScript, Fall 2021  
  
 
 **Gaming:**    
