@@ -26,10 +26,10 @@
 [**Typescript CRUD**](https://full-world-cup-23.vercel.app/) - TS CRUD & MongoDB.   
 [**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
 [**Comment App**](https://comment-app-amber.vercel.app/) - Redux, MongoDB, Next.js  
-[**First website**](https://sivo91.github.io/PeterS/html/intro.html?fbclid=IwAR0zGWV33Rvc-t2YRrHaPjF4O-gqe1L8O5iLoKDLFYcdkLGJgqPetrl3u4Y) - JavaScript  
+[**First Website**](https://sivo91.github.io/PeterS/html/intro.html?fbclid=IwAR0zGWV33Rvc-t2YRrHaPjF4O-gqe1L8O5iLoKDLFYcdkLGJgqPetrl3u4Y) - JavaScript  
 [**CharisMa Web Development**](https://www.charismawebdevelopment.com/) - First Online Bussiness  
 [**Quiz App**](https://quizzes-liart.vercel.app/) - Next.js, hockey quizzes  
-[**Lake Taho Booking App**](https://cabin-lake-tahoe.vercel.app/) - Rent Cabin | Lake Tahoe  
+[**South Lake Tahoe Booking App**](https://cabin-lake-tahoe.vercel.app/) - Rent Cabin | Lake Tahoe  
 [**Croatia Booking App**](https://bool-app.vercel.app/) - Luxury Villa | Croatia  
 [**Data Modeling TS**](https://data-modeling2-typescript-tailwindcss.vercel.app/) - Typescript, working with data  
 [**Photo Studio**](https://photo-studio-two.vercel.app/) - Website for Photo Studio  
