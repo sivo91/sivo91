@@ -33,7 +33,7 @@
 [**Croatia Booking App**](https://bool-app.vercel.app/) - Luxury Villa | Croatia  
 [**Data Modeling TS**](https://data-modeling2-typescript-tailwindcss.vercel.app/) - Typescript, working with data  
 [**Photo Studio**](https://photo-studio-two.vercel.app/) - Website for Photo Studio  
-[**Ecomerce**](https://ecom-n-trinast.vercel.app/) - E-commerce Rocks, Next.js  
+[**E-comerce**](https://ecom-n-trinast.vercel.app/) - E-commerce Rocks, Next.js  
 [**Movie Database**](https://filmy-aplikacia.netlify.app/) - Movie database    
 [**Coctail App**](https://koktajly.netlify.app/) - Coctails App    
 [**Pexeso**](https://pexeso.peter119.repl.co/index.html) - Pexeso App   
