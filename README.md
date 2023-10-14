@@ -38,7 +38,7 @@
 [**Coctail App**](https://koktajly.netlify.app/) - Coctails App    
 [**Pexeso**](https://pexeso.peter119.repl.co/index.html) - Pexeso App   
 [**Hockey Team**](https://hockey-team-prototype.peter119.repl.co/) - Pexeso App    
-[**Hockey Team**](https://pexeso.peter119.repl.co/index.html) - To-do App  
+[**Pexeso**](https://pexeso.peter119.repl.co/index.html) - To-do App  
 [**jQuery Color Detector**](https://jquery-color-deterctor.peter119.repl.co/index.html) - JavaScript, jQuery  
 [**Drive-In Movie Theater**](https://drive-in-theater.peter119.repl.co/index.html) - JavaScript    
 
