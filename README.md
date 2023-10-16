@@ -52,6 +52,7 @@
 
 
 ![TypeScript](https://example.com/typescript.png) ![JavaScript](https://example.com/javascript.png)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical)
 
 
 
