@@ -49,7 +49,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivo91)](https://git.io/streak-stats)
 
-![TypeScript](https://example.com/typescript.png)
+
+
+![TypeScript](https://example.com/typescript.png) ![JavaScript](https://example.com/javascript.png)
+
 
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%23485D.svg? style=for-the-badge&logo=node.js&logoColor=white"/>
