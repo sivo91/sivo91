@@ -23,7 +23,7 @@
 
 
 **Side Projects Next.js, Redux, MongoDB, TypeScript:**     
-[**DogSitter**](https://dog-care-iota.vercel.app/) - Side project, looking for responsible person.   
+[**DogSitter**](https://dog-sitter-for-two-huskies.vercel.app/) - Side project, looking for responsible person.   
 [**Email-based One-Time Password (OTP) Authentication**](https://login-auth-amber.vercel.app/) - email-otp-authentication    
 [**Typescript CRUD**](https://ts-crud.vercel.app/) - TS CRUD & MongoDB.   
 [**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
