@@ -1,5 +1,5 @@
 **Hi there 👋, I am Peter,**  
-**Junior Web Full-Stack Developer 🚀**  
+**Junior Full-Stack Web Developer 🚀**  
 
 - 🌱 I’m currently working on C++ & typescript
 - [Contact Me](mailto:p.sivak91@gmai.com)
