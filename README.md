@@ -23,9 +23,9 @@
 
 
 **Side Projects Next.js, Redux, MongoDB, TypeScript:**     
-[**Foxxy**](https://foxy-navy.vercel.app/) -  Foxxy's Journey from Euthanasia to a Loving Home   
-[**DogSitter**](https://dog-sitter-for-two-huskies.vercel.app/) - Side project, looking for responsible person. 
-[**Email-based One-Time Password (OTP) Authentication**](https://login-auth-amber.vercel.app/) - email-otp-authentication    
+[**Foxxy**](https://foxy-navy.vercel.app/) -  Foxxy's Journey from Euthanasia to a Loving Home     
+[**DogSitter**](https://dog-sitter-for-two-huskies.vercel.app/) - Side project, looking for responsible person.          
+[**Email-based One-Time Password (OTP) Authentication**](https://login-auth-amber.vercel.app/) - email-otp-authentication       
 [**Typescript CRUD**](https://ts-crud.vercel.app/) - TS CRUD & MongoDB.   
 [**Ice Hockey WC'23**](https://full-world-cup-23.vercel.app/) - Hockey Championship 2023. Voting App.    
 [**Comment App**](https://comment-app-amber.vercel.app/) - Redux, MongoDB, Next.js  
