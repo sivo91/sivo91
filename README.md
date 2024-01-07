@@ -23,7 +23,7 @@
 
 
 **Side Projects Next.js, Redux, MongoDB, TypeScript:**     
-[**Hockey-live**](https://hockey-live-statistics.vercel.app/) -  Foxxy's Journey from Euthanasia to a Loving Home       
+[**Hockey-live**](https://hockey-live-statistics.vercel.app/) -  Live Hockey Statistics: NHL, Olympics, World Championships & More     
 [**Foxxy**](https://foxy-navy.vercel.app/) -  Foxxy's Journey from Euthanasia to a Loving Home       
 [**DogSitter**](https://dog-sitter-for-two-huskies.vercel.app/) - Side project, looking for responsible person.          
 [**Email-based One-Time Password (OTP) Authentication**](https://login-auth-amber.vercel.app/) - email-otp-authentication       
