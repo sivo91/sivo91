@@ -18,7 +18,7 @@
  
 
 **Gaming:**    
-[**Intro To Game Coding**](https://treasure-game.peter119.repl.co/) - Santa Rosa Junior College, Phaser3, Fall 2021  
+[**Intro To Game Coding**](https://replit.com/@Peter119/treasure-game#index.html) - Santa Rosa Junior College, Phaser3, Fall 2021  
 [**PlayCanvas WebGL**](https://playcanv.as/b/jGaLvthn) - Santa Rosa Junior College, WebGL, Fall 2021
 
 
