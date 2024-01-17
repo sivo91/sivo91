@@ -17,11 +17,6 @@
 [**Web Development III**](https://final-project-react-node-server.peter119.repl.co/index.html) - Santa Rosa Junior College, JavaScript, Fall 2021  
  
 
-**Gaming:**    
-[**Intro To Game Coding**](https://replit.com/@Peter119/treasure-game#index.html) - Santa Rosa Junior College, Phaser3, Fall 2021  
-[**PlayCanvas WebGL**](https://playcanv.as/b/jGaLvthn) - Santa Rosa Junior College, WebGL, Fall 2021
-
-
 **Side Projects Next.js, Redux, MongoDB, TypeScript:**     
 [**Hockey-live**](https://hockey-live-statistics.vercel.app/) -  Live Hockey Statistics: NHL, Olympics, World Championships & More     
 [**Foxxy**](https://foxy-navy.vercel.app/) -  Foxxy's Journey from Euthanasia to a Loving Home       
